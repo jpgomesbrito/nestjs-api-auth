@@ -24,7 +24,9 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+I'm adding authentication to your NestJS API. I'm using PASSPORT ( https://www.passportjs.org/docs/ ) to use different types of authentication strategies. 
+Lastly, 'm also using a stateless approach with JSON Web Tokens (JWTs). 
+I'm creating my own JWT, to learn how to secure API routes!
 
 ## Installation
 
